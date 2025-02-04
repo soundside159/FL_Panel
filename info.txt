@@ -1,3 +1,6 @@
 version: 1.1
 update_url: https://upd.com
-changelog: - Added awesome feature X; - Improved performance of Y; - Fixed bug Z.
+changelog: 
+- Added awesome feature X; 
+- Improved performance of Y; 
+- Fixed bug Z.
