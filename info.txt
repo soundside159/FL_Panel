@@ -1,2 +1,2 @@
-version: 1.12
+version: 1.0
 update_url: https://mytestupdate.com
