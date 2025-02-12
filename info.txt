@@ -6,4 +6,4 @@ update_url: https://upd.com
 changelog: - Some Updates; - Updates 2;
 version: 1.3
 update_url: https://upd3.com
-changelog: - Some Updates3; - Updates 33;
+changelog: - Some Updates3; - Updates 33; - Updates 44; - Updates 55; - Updates 66;
